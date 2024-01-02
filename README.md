@@ -1,6 +1,7 @@
 <a href="https://chiknwy.github.io/Tekweb/porto/">
-                    <span class="font-extrabold text-blue-400">Chiko</span><br>
-                    <span class="font-extralight text-indigo-500">Satria</span>
+                    <span style="font-weight: bold; color: #4299e1;">Chiko</span><br>
+                    <span style="font-weight: 200; color: #667eea;">Satria</span>
+
 </a>
 
 
