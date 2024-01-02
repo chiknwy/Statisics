@@ -4,6 +4,8 @@
                     <span style="font-weight: 200; color: #667eea;">2215101053</span>
 
 </a>
+<a href="https://chiknwy.github.io/Statisics/UAS.pdf" target="_blank">
+PDF FILE CLICK HERE</a>
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
